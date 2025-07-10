@@ -261,4 +261,4 @@ if __name__ == '__main__':
         main()
     except Exception as e:
         print(f"严重错误: {str(e)}")
-        print("请提交issue: https://github.com/your-repo/udp-traffic-generator/issues")
+        print("请提交issue: https://github.com/xiangfanobb/UDP-Traffic-Generator/issues")
